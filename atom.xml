@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ytl310.github.io</id>
+    <title>沈心者</title>
+    <updated>2022-02-09T11:08:24.879Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ytl310.github.io"/>
+    <link rel="self" href="https://ytl310.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://ytl310.github.io/images/avatar.png</logo>
+    <icon>https://ytl310.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 沈心者</rights>
+    <entry>
+        <title type="html"><![CDATA[美好的一天，开始]]></title>
+        <id>https://ytl310.github.io/post/mei-hao-de-yi-tian-kai-shi/</id>
+        <link href="https://ytl310.github.io/post/mei-hao-de-yi-tian-kai-shi/">
+        </link>
+        <updated>2021-02-07T01:48:18.000Z</updated>
+        <content type="html"><![CDATA[<p>好心情</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://ytl310.github.io/post/hello-gridea/</id>
+        <link href="https://ytl310.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶</p>
+]]></content>
+    </entry>
+</feed>
